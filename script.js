@@ -3,7 +3,7 @@ let btn2 = document.querySelector("#btn2")
 let span = document.querySelector("#span1")
 let span2 = document.querySelector("#span2")
 let val = document.querySelector("input[type=text]")
-const alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
+const alphabet = ["aa", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
 let res = []
 let res2 = []
 
